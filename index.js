@@ -78,7 +78,7 @@ function writeToFile(fileName, data) {
 const init = () => {
     questions()
 
-    .then((answers => fs.writeFileSync('README.md', generateMarkdown(answers))))
+    .then((answers => fs.writeFileSync('TempREADME.md', generateMarkdown(answers))))
         .then(() => console.log('Successfully wrote to README.md'))
         .catch((err) => console.error(err));
 };
