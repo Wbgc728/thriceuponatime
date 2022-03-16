@@ -1,2 +1,0 @@
-# thriceuponatime
-Readme Generator
