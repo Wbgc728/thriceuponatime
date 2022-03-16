@@ -10,6 +10,8 @@ This README generator can be invoked by installing the the required packages and
 npm i
 node index.js
 
+```
+
 ## USAGE
 
 Answer the prompts in your command line to generate the README.
