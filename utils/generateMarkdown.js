@@ -14,14 +14,14 @@
 function generateMarkdown(data) {
     return `# ${data.title}
 
-    ## TABLE OF CONTENTS
+## TABLE OF CONTENTS
 * [DESCRIPTION](#description)
 * [INSTALLATION](#install)
 * [USAGE](#usage)
 * [CREDITS](#credits)
 * [TESTING](#test)
 
-  ## DESCRIPTION
+## DESCRIPTION
 
 ${data.description}
 
