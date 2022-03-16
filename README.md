@@ -25,6 +25,8 @@ The README has some automatically generated badges for your repo courtesy of shi
 
 <https://github.com/Wbgc728/thriceuponatime>
 
+Video: <https://drive.google.com/file/d/1EIbVjKLskVGyzMJy1Y-kTKbInCkQT4z3/view>
+
 
 
 
